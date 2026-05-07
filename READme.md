@@ -64,7 +64,7 @@ liver-tumor-segmentation/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone <your-github-link>
+git clone (https://github.com/PranayM-235/Liver_tumor_segmentation)
 cd liver-tumor-segmentation
 ```
 
