@@ -1,1 +1,0 @@
-# Liver_tumor_segmentation
